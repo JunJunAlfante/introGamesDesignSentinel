@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Maps/StartMap_BuiltData.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Maps/StartMap.umap",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Blueprints/PlayerCharacter.uasset"
+			]
+		}
+	]
+}

@@ -1651,3 +1651,11 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2025.10.14-17.41.22:156][111]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8453.697266
 [2025.10.14-17.41.23:154][114]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.14-17.41.23:154][114]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8454.361328, Update Interval: 300.166626
+[2025.10.14-17.42.30:150][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.10.14-17.42.30:153][646]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartMap' took 0.060
+[2025.10.14-17.42.30:153][646]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/StudentWork/BP_Steam_Vent] ([2] browsable assets)...
+[2025.10.14-17.42.30:188][646]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/StudentWork/BP_Steam_Vent.BP_Steam_Vent]
+[2025.10.14-17.42.30:188][646]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/BP_Steam_Vent]
+[2025.10.14-17.42.30:201][646]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/BP_Steam_Vent_Auto2
+[2025.10.14-17.42.30:201][646]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/BP_Steam_Vent_Auto23CC0D0C642E550BA199EAFBCEA3E6974.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Autosaves/Game/StudentWork/BP_Steam_Vent_Auto2.uasset'
+[2025.10.14-17.42.30:202][646]LogFileHelpers: Auto-saving content packages took 0.050

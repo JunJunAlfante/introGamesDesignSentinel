@@ -1712,3 +1712,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.19-00.17.34:274][516]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2025.10.19-00.17.34:274][516]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2025.10.19-00.17.34:302][516]LogPakFile: Destroying PakPlatformFile
+[2025.10.19-00.17.35:745][516]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.19-00.17.36:091][516]LogExit: Exiting.
+[2025.10.19-00.17.36:145][516]Log file closed, 10/19/25 01:17:36

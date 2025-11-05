@@ -3145,3 +3145,623 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.11.05-16.07.06:043][672]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.05-16.07.06:043][673]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9936.919922, Update Interval: 336.012451
 [2025.11.05-16.12.13:854][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.11.05-16.13.15:812][286]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10306.606445
+[2025.11.05-16.13.16:815][289]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-16.13.16:815][289]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10307.274414, Update Interval: 356.460449
+[2025.11.05-16.19.53:941][480]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10704.761719
+[2025.11.05-16.19.54:942][483]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-16.19.54:942][483]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10705.430664, Update Interval: 303.037811
+[2025.11.05-16.22.57:176][ 30]LogDerivedDataCache: C:/Users/a026015o/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.002 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.05-16.25.42:044][525]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11052.867188
+[2025.11.05-16.25.43:044][527]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-16.25.43:044][527]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11053.534180, Update Interval: 328.964508
+[2025.11.05-16.31.43:818][609]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11414.637695
+[2025.11.05-16.31.44:812][612]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-16.31.44:812][612]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11415.300781, Update Interval: 318.285461
+[2025.11.05-16.35.19:567][257]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Realtek(R) Audio), InstanceID=1
+[2025.11.05-16.35.19:567][257]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{28f27bf4-d480-478f-b025-1de378ecc46b}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.11.05-16.35.19:876][257]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{28f27bf4-d480-478f-b025-1de378ecc46b}]
+[2025.11.05-16.35.19:876][257]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.05-16.35.19:876][257]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.11.05-16.35.20:215][258]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{28f27bf4-d480-478f-b025-1de378ecc46b}, Name=Headphones (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=57.64
+[2025.11.05-16.35.20:215][258]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.05-16.35.20:215][258]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.05-16.35.20:219][258]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.05-16.37.43:899][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11774.690430
+[2025.11.05-16.37.44:900][692]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-16.37.44:900][692]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11775.356445, Update Interval: 325.948669
+[2025.11.05-16.43.50:626][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12141.424805
+[2025.11.05-16.43.51:625][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-16.43.51:626][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12142.091797, Update Interval: 308.192383
+[2025.11.05-16.49.55:339][883]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12506.125000
+[2025.11.05-16.49.56:339][886]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-16.49.56:339][887]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12506.792969, Update Interval: 321.517395
+[2025.11.05-16.56.15:390][ 24]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12886.162109
+[2025.11.05-16.56.16:392][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-16.56.16:392][ 27]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12886.831055, Update Interval: 322.660004
+[2025.11.05-17.00.14:816][878]LogStreaming: Display: FlushAsyncLoading(488): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.05-17.00.23:900][878]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/a026015o/OneDrive - University of Staffordshire/IntroAssetCreation/BlenderProjects/Textured_Tutorial_Arcade_Machine.fbx]
+[2025.11.05-17.01.05:854][878]LogSlate: Window 'Import Content' being destroyed
+[2025.11.05-17.01.05:899][878]LogInterchangeEngine: [Pending] Importing
+[2025.11.05-17.01.06:047][879]LogStreaming: Display: FlushAsyncLoading(522): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.05-17.01.06:109][880]LogStreaming: Display: FlushAsyncLoading(523): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.05-17.01.06:179][881]LogStreaming: Display: FlushAsyncLoading(524): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.05-17.01.06:276][882]LogTexture: Display: Building textures: /Game/StudentWork/ArcadeMachineTextures.ArcadeMachineTextures (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.11.05-17.01.06:300][883]LogStaticMesh: Display: Building static mesh Textured_Tutorial_Arcade_Machine (Required Memory Estimate: 0.185852 MB)...
+[2025.11.05-17.01.06:306][883]LogStaticMesh: Adjacency [0.00s], tris: 114, UVs 1
+[2025.11.05-17.01.06:306][883]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.11.05-17.01.06:307][883]LogStaticMesh: Leaves [0.00s]
+[2025.11.05-17.01.06:307][883]LogStaticMesh: Reduce [0.00s]
+[2025.11.05-17.01.06:309][883]LogStaticMesh: Fallback [0.00s], num tris: 114
+[2025.11.05-17.01.06:310][883]LogStaticMesh: ConstrainClusters:
+[2025.11.05-17.01.06:310][883]LogStaticMesh:   Input: 1 Clusters, 114 Triangles and 128 Vertices
+[2025.11.05-17.01.06:310][883]LogStaticMesh:   Output without splits: 1 Clusters, 114 Triangles and 128 Vertices
+[2025.11.05-17.01.06:310][883]LogStaticMesh:   Output with splits: 1 Clusters, 114 Triangles and 128 Vertices
+[2025.11.05-17.01.06:310][883]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.11.05-17.01.06:310][883]LogStaticMesh: WritePages:
+[2025.11.05-17.01.06:310][883]LogStaticMesh:   Root: GPU size: 1636 bytes. 1 Pages. 1636.000 bytes per page (4.993% utilization).
+[2025.11.05-17.01.06:310][883]LogStaticMesh:   Streaming: 0 bytes.
+[2025.11.05-17.01.06:310][883]LogStaticMesh:   Page data disk size: 1864 bytes. Fixup data size: 24 bytes.
+[2025.11.05-17.01.06:310][883]LogStaticMesh:   Total GPU size: 1636 bytes, Total disk size: 1888 bytes.
+[2025.11.05-17.01.06:310][883]LogStaticMesh: Encode [0.00s]
+[2025.11.05-17.01.06:310][883]LogStaticMesh: NaniteBuild [0.01s]
+[2025.11.05-17.01.06:313][883]LogStaticMesh: Built static mesh [0.01s] /Game/StudentWork/Textured_Tutorial_Arcade_Machine.Textured_Tutorial_Arcade_Machine
+[2025.11.05-17.01.07:580][957]LogInterchangeEngine: Display: Interchange import completed [C:/Users/a026015o/On...tion/BlenderProjects/Textured_Tutorial_Arcade_Machine.fbx]
+[2025.11.05-17.01.07:581][957]Interchange: Warning: [C:/Users/a026015o/OneDrive - University of Staffordshire/IntroAssetCreation/BlenderProjects/Textured_Tutorial_Arcade_Machine.fbx : 'Textured_Tutorial_Arcade_Machine', StaticMesh] No smoothing group information was found for this mesh 'Cube_002' in the FBX file. Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter before exporting the file.
+[2025.11.05-17.01.07:603][957]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.11.05-17.01.07:603][957]LogInterchangeEngine: [Success] Import Done
+[2025.11.05-17.01.10:709][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.11.05-17.01.10:710][180]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartMap' took 0.040
+[2025.11.05-17.01.10:710][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/ArcadeMachineTextures] ([1] browsable assets)...
+[2025.11.05-17.01.10:713][180]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/StudentWork/ArcadeMachineTextures.ArcadeMachineTextures]
+[2025.11.05-17.01.10:713][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/ArcadeMachineTextures]
+[2025.11.05-17.01.10:727][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/ArcadeMachineTextures_Auto2
+[2025.11.05-17.01.10:727][180]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/ArcadeMachineTextures_Auto2259AD6E14D8A6E49580074855E7A8741.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Autosaves/Game/StudentWork/ArcadeMachineTextures_Auto2.uasset'
+[2025.11.05-17.01.10:729][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/Material] ([1] browsable assets)...
+[2025.11.05-17.01.13:314][180]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StudentWork/Material.Material]
+[2025.11.05-17.01.13:314][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Material]
+[2025.11.05-17.01.13:324][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/Material_Auto2
+[2025.11.05-17.01.13:324][180]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Material_Auto2EAACFDBB47159D31F7DE8882D999D261.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Autosaves/Game/StudentWork/Material_Auto2.uasset'
+[2025.11.05-17.01.13:325][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/Textured_Tutorial_Arcade_Machine] ([1] browsable assets)...
+[2025.11.05-17.01.13:335][180]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StudentWork/Textured_Tutorial_Arcade_Machine.Textured_Tutorial_Arcade_Machine]
+[2025.11.05-17.01.13:335][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Textured_Tutorial_Arcade_Machine]
+[2025.11.05-17.01.13:343][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/Textured_Tutorial_Arcade_Machine_Auto2
+[2025.11.05-17.01.13:343][180]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Textured_Tutorial_Arcade_Machine4F49749B4B94690694285DAA9F10B3F0.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Autosaves/Game/StudentWork/Textured_Tutorial_Arcade_Machine_Auto2.uasset'
+[2025.11.05-17.01.13:344][180]LogFileHelpers: Auto-saving content packages took 2.634
+[2025.11.05-17.01.19:538][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/Textured_Tutorial_Arcade_Machine.Textured_Tutorial_Arcade_Machine
+[2025.11.05-17.01.19:538][629]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/Textured_Tutorial_Arcade_Machine.Textured_Tutorial_Arcade_Machine
+[2025.11.05-17.01.19:539][629]LogActorFactory: Actor Factory spawned StaticMesh /Game/StudentWork/Textured_Tutorial_Arcade_Machine.Textured_Tutorial_Arcade_Machine as actor: StaticMeshActor /Game/Maps/StartMap.StartMap:PersistentLevel.StaticMeshActor_10
+[2025.11.05-17.01.20:549][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.11.05-17.01.20:551][730]LogEditorActor: Deleted 0 Actors (0.032 secs)
+[2025.11.05-17.01.20:557][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/Textured_Tutorial_Arcade_Machine.Textured_Tutorial_Arcade_Machine
+[2025.11.05-17.01.20:557][730]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StudentWork/Textured_Tutorial_Arcade_Machine.Textured_Tutorial_Arcade_Machine
+[2025.11.05-17.01.20:559][730]LogActorFactory: Actor Factory spawned StaticMesh /Game/StudentWork/Textured_Tutorial_Arcade_Machine.Textured_Tutorial_Arcade_Machine as actor: StaticMeshActor /Game/Maps/StartMap.StartMap:PersistentLevel.StaticMeshActor_33
+[2025.11.05-17.01.36:936][315]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.01.36:947][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.01.36:947][315]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartMap
+[2025.11.05-17.01.36:964][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017674s)
+[2025.11.05-17.01.36:964][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartMap.StartMap to /Game/Maps/UEDPIE_0_StartMap.StartMap (0.017712s)
+[2025.11.05-17.01.36:995][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2025.11.05-17.01.36:996][315]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.11.05-17.01.36:999][315]LogPlayLevel: PIE: World Init took: (0.002004s)
+[2025.11.05-17.01.37:000][315]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2025.11.05-17.01.37:000][315]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.01.37:000][315]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.01.37:000][315]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.01.37:000][315]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.01.37:000][315]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.01.37:000][315]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.01.37:000][315]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.01.37:000][315]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.01.37:000][315]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.01.37:000][315]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.01.37:000][315]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.01.37:002][315]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.01.37:036][315]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.11.05-17.01.37:036][315]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.01.37:036][315]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.01.37:036][315]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.01.37:037][315]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2025.11.05-17.01.37:037][315]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2025.11.05-17.01.37:039][315]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2025.11.05-17.01.37:039][315]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2025.11.05-17.01.37:039][315]LogInit: FAudioDevice initialized with ID 22.
+[2025.11.05-17.01.37:039][315]LogAudio: Display: Audio Device (ID: 22) registered with world 'StartMap'.
+[2025.11.05-17.01.37:039][315]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2025.11.05-17.01.37:044][315]LogLoad: Game class is 'BP_Sem1GameMode_C'
+[2025.11.05-17.01.37:052][315]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.11.05-17.01.37
+[2025.11.05-17.01.37:053][315]LogWorld: Bringing up level for play took: 0.007647
+[2025.11.05-17.01.37:056][315]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.11.05-17.01.37:059][315]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.05-17.01.37:059][315]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.11.05-17.01.37:059][315]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.11.05-17.01.37:059][315]PIE: Server logged in
+[2025.11.05-17.01.37:061][315]PIE: Play in editor total start time 0.116 seconds.
+[2025.11.05-17.01.40:581][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.01.40:582][699]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartMap
+[2025.11.05-17.01.40:582][699]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.01.40:586][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.01.40:591][699]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.01.40:597][699]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.01.40:630][699]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.05-17.01.40:631][699]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2025.11.05-17.01.40:631][699]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=4
+[2025.11.05-17.01.40:634][699]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22, StreamState=2
+[2025.11.05-17.01.40:640][699]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.01.40:644][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2025.11.05-17.01.40:729][700]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.11.05-17.02.10:054][980]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13240.833984
+[2025.11.05-17.02.10:185][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.02.10:185][995]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13240.953125, Update Interval: 345.968201
+[2025.11.05-17.02.10:581][ 36]Cmd: TRANSACTION UNDO
+[2025.11.05-17.02.10:581][ 36]LogEditorTransaction: Undo Scale Elements
+[2025.11.05-17.02.17:974][720]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.02.17:983][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.02.17:983][720]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartMap
+[2025.11.05-17.02.18:001][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017073s)
+[2025.11.05-17.02.18:001][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartMap.StartMap to /Game/Maps/UEDPIE_0_StartMap.StartMap (0.017115s)
+[2025.11.05-17.02.18:032][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2025.11.05-17.02.18:034][720]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.11.05-17.02.18:036][720]LogPlayLevel: PIE: World Init took: (0.001874s)
+[2025.11.05-17.02.18:037][720]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2025.11.05-17.02.18:037][720]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.02.18:037][720]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.02.18:037][720]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.02.18:037][720]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.02.18:037][720]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.02.18:037][720]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.02.18:037][720]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.02.18:037][720]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.02.18:037][720]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.02.18:037][720]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.02.18:037][720]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.02.18:039][720]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.02.18:075][720]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.11.05-17.02.18:075][720]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.02.18:075][720]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.02.18:075][720]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.02.18:076][720]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2025.11.05-17.02.18:076][720]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2025.11.05-17.02.18:079][720]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2025.11.05-17.02.18:079][720]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2025.11.05-17.02.18:079][720]LogInit: FAudioDevice initialized with ID 23.
+[2025.11.05-17.02.18:079][720]LogAudio: Display: Audio Device (ID: 23) registered with world 'StartMap'.
+[2025.11.05-17.02.18:079][720]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.05-17.02.18:084][720]LogLoad: Game class is 'BP_Sem1GameMode_C'
+[2025.11.05-17.02.18:092][720]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.11.05-17.02.18
+[2025.11.05-17.02.18:092][720]LogWorld: Bringing up level for play took: 0.007473
+[2025.11.05-17.02.18:096][720]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2025.11.05-17.02.18:099][720]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.05-17.02.18:099][720]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.11.05-17.02.18:099][720]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.11.05-17.02.18:100][720]PIE: Server logged in
+[2025.11.05-17.02.18:102][720]PIE: Play in editor total start time 0.12 seconds.
+[2025.11.05-17.02.21:720][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.02.21:721][105]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartMap
+[2025.11.05-17.02.21:721][105]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.02.21:723][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.02.21:727][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.02.21:733][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.02.21:763][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.02.21:764][105]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2025.11.05-17.02.21:764][105]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=4
+[2025.11.05-17.02.21:766][105]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23, StreamState=2
+[2025.11.05-17.02.21:774][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.11.05-17.02.21:846][106]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2025.11.05-17.02.32:496][ 56]Cmd: TRANSACTION UNDO
+[2025.11.05-17.02.32:496][ 56]LogEditorTransaction: Undo Scale Elements
+[2025.11.05-17.02.32:809][ 61]Cmd: TRANSACTION UNDO
+[2025.11.05-17.02.32:809][ 61]LogEditorTransaction: Undo Scale Elements
+[2025.11.05-17.02.33:079][ 67]Cmd: TRANSACTION UNDO
+[2025.11.05-17.02.33:079][ 67]LogEditorTransaction: Undo Scale Elements
+[2025.11.05-17.02.44:926][273]Cmd: TRANSACTION UNDO
+[2025.11.05-17.02.44:926][273]LogEditorTransaction: Undo Move Elements
+[2025.11.05-17.02.45:277][278]Cmd: TRANSACTION UNDO
+[2025.11.05-17.02.45:277][278]LogEditorTransaction: Undo Move Elements
+[2025.11.05-17.02.45:832][315]Cmd: TRANSACTION UNDO
+[2025.11.05-17.02.45:832][315]LogEditorTransaction: Undo Rotate Elements
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: ================================================
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: Total job queries 1,853, among them cache hits 555 (29.95%), DDC hits 1,104 (59.58%), Duplicates 129 (6.96%)
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: Tracking 1,169 distinct input hashes that result in 783 distinct outputs (66.98%)
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: RAM used: 2.57 MiB of 1.60 GiB budget. Usage: 0.16%
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: Shaders Compiled: 65
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: Jobs assigned 65, completed 65 (100%)
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: Average time worker was idle: 1847.86 s
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 2.00 s
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: Job execution time: average 1.14 s, max 2.96 s
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: Job life time (pending + execution): average 1.40 s, max 4.16
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: Shader code size: total 561.039 KiB, numShaders 68, average 8.25 KiB, min 444 B, max 27.55 KiB
+[2025.11.05-17.04.06:209][883]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 26.48 s
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Jobs were issued in 65 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Average processing rate: 2.45 jobs/sec
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Total thread time: 53.933 s
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Total thread preprocess time: 35.403 s
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Percentage time preprocessing: 65.64%
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Effective parallelization: 2.04 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.254582
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.12 sec, max 2.12 sec, min 2.12 sec)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 1.48 sec, max 1.55 sec, min 1.41 sec)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    1 times, average 1.47 sec, max 1.47 sec, min 1.47 sec)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 1.26 sec, max 1.29 sec, min 1.23 sec)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    7 times, average 1.25 sec, max 1.68 sec, min 0.69 sec)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 16.23% of total time (compiled    7 times, average 1.25 sec, max 1.68 sec, min 0.69 sec)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.20% of total time (compiled    9 times, average 0.91 sec, max 1.17 sec, min 0.69 sec)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display:                                               FNiagaraShader - 6.09% of total time (compiled   20 times, average 0.16 sec, max 0.52 sec, min 0.06 sec)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.69% of total time (compiled    3 times, average 1.02 sec, max 1.88 sec, min 0.50 sec)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display:                                                  FVelocityPS - 5.49% of total time (compiled    2 times, average 1.48 sec, max 1.55 sec, min 1.41 sec)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: === Material stats ===
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Materials Translated:    150
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Material Translation Only: 0.06 s (37%)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.11.05-17.04.06:210][883]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.11.05-17.04.06:211][883]LogShaderCompilers: Display: ================================================
+[2025.11.05-17.06.32:104][501]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.06.32:113][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.06.32:115][501]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartMap
+[2025.11.05-17.06.32:132][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017580s)
+[2025.11.05-17.06.32:132][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartMap.StartMap to /Game/Maps/UEDPIE_0_StartMap.StartMap (0.017628s)
+[2025.11.05-17.06.32:165][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.11.05-17.06.32:168][501]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.11.05-17.06.32:169][501]LogPlayLevel: PIE: World Init took: (0.002100s)
+[2025.11.05-17.06.32:170][501]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2025.11.05-17.06.32:170][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.06.32:170][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.06.32:170][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.06.32:170][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.06.32:170][501]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.06.32:170][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.06.32:170][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.06.32:170][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.06.32:170][501]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.06.32:170][501]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.06.32:170][501]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.06.32:173][501]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.06.32:206][501]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.11.05-17.06.32:206][501]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.06.32:206][501]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.06.32:206][501]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.06.32:207][501]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2025.11.05-17.06.32:207][501]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2025.11.05-17.06.32:210][501]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2025.11.05-17.06.32:210][501]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2025.11.05-17.06.32:210][501]LogInit: FAudioDevice initialized with ID 24.
+[2025.11.05-17.06.32:210][501]LogAudio: Display: Audio Device (ID: 24) registered with world 'StartMap'.
+[2025.11.05-17.06.32:210][501]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.05-17.06.32:215][501]LogLoad: Game class is 'BP_Sem1GameMode_C'
+[2025.11.05-17.06.32:223][501]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.11.05-17.06.32
+[2025.11.05-17.06.32:223][501]LogWorld: Bringing up level for play took: 0.007697
+[2025.11.05-17.06.32:226][501]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2025.11.05-17.06.32:230][501]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.05-17.06.32:230][501]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.11.05-17.06.32:230][501]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.11.05-17.06.32:231][501]PIE: Server logged in
+[2025.11.05-17.06.32:233][501]PIE: Play in editor total start time 0.12 seconds.
+[2025.11.05-17.06.37:849][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.06.37:850][105]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartMap
+[2025.11.05-17.06.37:850][105]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.06.37:852][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.06.37:856][105]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.06.37:862][105]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.06.37:893][105]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.06.37:895][105]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2025.11.05-17.06.37:895][105]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=4
+[2025.11.05-17.06.37:898][105]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24, StreamState=2
+[2025.11.05-17.06.37:909][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.11.05-17.06.37:982][106]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2025.11.05-17.06.40:299][303]Cmd: TRANSACTION UNDO
+[2025.11.05-17.06.40:300][303]LogEditorTransaction: Undo Scale Elements
+[2025.11.05-17.06.40:710][309]Cmd: TRANSACTION UNDO
+[2025.11.05-17.06.40:710][309]LogEditorTransaction: Undo Scale Elements
+[2025.11.05-17.06.41:021][327]Cmd: TRANSACTION UNDO
+[2025.11.05-17.06.41:021][327]LogEditorTransaction: Undo Scale Elements
+[2025.11.05-17.06.41:377][359]Cmd: TRANSACTION UNDO
+[2025.11.05-17.06.41:377][359]LogEditorTransaction: Undo Scale Elements
+[2025.11.05-17.07.16:892][576]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.05-17.07.16:902][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.05-17.07.16:903][576]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartMap
+[2025.11.05-17.07.16:922][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019794s)
+[2025.11.05-17.07.16:922][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartMap.StartMap to /Game/Maps/UEDPIE_0_StartMap.StartMap (0.019845s)
+[2025.11.05-17.07.16:957][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.11.05-17.07.16:959][576]LogChaosDD: Creating Chaos Debug Draw Scene for world StartMap
+[2025.11.05-17.07.16:961][576]LogPlayLevel: PIE: World Init took: (0.001752s)
+[2025.11.05-17.07.16:962][576]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2025.11.05-17.07.16:962][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.05-17.07.16:962][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.05-17.07.16:962][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.05-17.07.16:962][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.05-17.07.16:962][576]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.05-17.07.16:962][576]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.05-17.07.16:962][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.05-17.07.16:962][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.05-17.07.16:962][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.05-17.07.16:962][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.05-17.07.16:962][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.05-17.07.16:965][576]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.05-17.07.17:006][576]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2025.11.05-17.07.17:006][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.05-17.07.17:006][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.05-17.07.17:006][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.05-17.07.17:006][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2025.11.05-17.07.17:008][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2025.11.05-17.07.17:011][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2025.11.05-17.07.17:011][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2025.11.05-17.07.17:011][576]LogInit: FAudioDevice initialized with ID 25.
+[2025.11.05-17.07.17:011][576]LogAudio: Display: Audio Device (ID: 25) registered with world 'StartMap'.
+[2025.11.05-17.07.17:011][576]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.05-17.07.17:016][576]LogLoad: Game class is 'BP_Sem1GameMode_C'
+[2025.11.05-17.07.17:024][576]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2025.11.05-17.07.17
+[2025.11.05-17.07.17:024][576]LogWorld: Bringing up level for play took: 0.007208
+[2025.11.05-17.07.17:029][576]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2025.11.05-17.07.17:031][576]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.11.05-17.07.17:031][576]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.11.05-17.07.17:031][576]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.11.05-17.07.17:032][576]PIE: Server logged in
+[2025.11.05-17.07.17:034][576]PIE: Play in editor total start time 0.134 seconds.
+[2025.11.05-17.07.29:260][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.07.29:260][899]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartMap
+[2025.11.05-17.07.29:260][899]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-17.07.29:263][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.07.29:267][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.05-17.07.29:274][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-17.07.29:304][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.05-17.07.29:305][899]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2025.11.05-17.07.29:305][899]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=4
+[2025.11.05-17.07.29:308][899]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25, StreamState=2
+[2025.11.05-17.07.29:318][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.11.05-17.07.29:391][900]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2025.11.05-17.07.31:484][ 59]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/StudentWork/Textured_Tutorial_Arcade_Machine.Textured_Tutorial_Arcade_Machine
+[2025.11.05-17.07.31:511][ 59]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2025.11.05-17.07.31:520][ 59]LogStreaming: Display: FlushAsyncLoading(525): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.05-17.07.31:538][ 59]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.11.05-17.07.31:547][ 59]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.11.05-17.07.31:558][ 59]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.11.05-17.07.31:559][ 59]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.11.05-17.08.54:421][623]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13645.187500
+[2025.11.05-17.08.55:420][626]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.08.55:420][626]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13645.859375, Update Interval: 326.342346
+[2025.11.05-17.11.39:228][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2025.11.05-17.11.39:316][117]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/StartMap_Auto3
+[2025.11.05-17.11.39:316][117]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/StartMap_Auto3E1CFF1BE41E842BA795E3593D2978729.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Autosaves/Game/Maps/StartMap_Auto3.umap'
+[2025.11.05-17.11.39:319][117]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartMap' took 0.151
+[2025.11.05-17.11.39:319][117]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.151
+[2025.11.05-17.11.39:319][117]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/ArcadeMachineTextures] ([1] browsable assets)...
+[2025.11.05-17.11.39:319][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/ArcadeMachineTextures]
+[2025.11.05-17.11.39:334][117]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/ArcadeMachineTextures_Auto3
+[2025.11.05-17.11.39:334][117]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/ArcadeMachineTextures_Auto3D1686878478F964C55A98EA4983AA56E.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Autosaves/Game/StudentWork/ArcadeMachineTextures_Auto3.uasset'
+[2025.11.05-17.11.39:335][117]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/Material] ([1] browsable assets)...
+[2025.11.05-17.11.39:335][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Material]
+[2025.11.05-17.11.39:344][117]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/Material_Auto3
+[2025.11.05-17.11.39:344][117]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Material_Auto37F37AEAD43C2EDBE5D1949858F2848A9.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Autosaves/Game/StudentWork/Material_Auto3.uasset'
+[2025.11.05-17.11.39:345][117]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/Textured_Tutorial_Arcade_Machine] ([1] browsable assets)...
+[2025.11.05-17.11.39:345][117]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Textured_Tutorial_Arcade_Machine]
+[2025.11.05-17.11.39:352][117]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StudentWork/Textured_Tutorial_Arcade_Machine_Auto3
+[2025.11.05-17.11.39:352][117]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Textured_Tutorial_Arcade_Machine64B69F474FA79B9F8625A3BAACAE76B6.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Autosaves/Game/StudentWork/Textured_Tutorial_Arcade_Machine_Auto3.uasset'
+[2025.11.05-17.11.39:355][117]LogFileHelpers: Auto-saving content packages took 0.035
+[2025.11.05-17.14.59:480][718]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14010.225586
+[2025.11.05-17.15.00:480][721]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.15.00:480][721]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14010.892578, Update Interval: 314.266174
+[2025.11.05-17.20.53:203][779]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14363.919922
+[2025.11.05-17.20.54:213][782]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.20.54:214][783]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14364.595703, Update Interval: 343.333221
+[2025.11.05-17.22.57:185][151]LogDerivedDataCache: C:/Users/a026015o/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.11.05-17.27.23:858][182]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14754.550781
+[2025.11.05-17.27.24:859][185]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.27.24:859][185]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14755.217773, Update Interval: 321.304962
+[2025.11.05-17.33.40:590][312]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15131.282227
+[2025.11.05-17.33.41:589][315]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.33.41:589][316]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15131.948242, Update Interval: 304.288452
+[2025.11.05-17.39.41:310][395]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15492.005859
+[2025.11.05-17.39.42:311][397]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.39.42:311][398]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15492.672852, Update Interval: 303.230072
+[2025.11.05-17.45.29:704][439]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15840.386719
+[2025.11.05-17.45.30:704][442]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.45.30:704][442]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15841.052734, Update Interval: 332.461914
+[2025.11.05-17.51.55:438][597]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16226.115234
+[2025.11.05-17.51.56:438][599]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.51.56:439][599]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16226.784180, Update Interval: 313.597839
+[2025.11.05-17.57.54:823][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 16585.529297
+[2025.11.05-17.57.55:823][677]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.05-17.57.55:823][677]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 16586.197266, Update Interval: 329.967957
+[2025.11.05-18.03.02:759][592]LogAudioMixer: Display: Attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.11.05-18.03.02:759][592]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2025.11.05-18.09.14:640][593]LogAudioMixer: Display: Ignoring device swap request, AudioStreamInfo.StreamState: 5
+[2025.11.05-18.09.14:640][593]LogAudioMixer: Display: NOT-ALLOWING attempt to swap audio render device to new device: '[System Default]', because: 'AudioMixerPlatformInterface. Timeout waiting for h/w.', force=1
+[2025.11.05-18.09.14:640][593]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [372 Seconds] waiting for h/w. InstanceID=1
+[2025.11.05-18.09.15:168][593]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [[System Default]]
+[2025.11.05-18.09.15:168][593]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.11.05-18.09.15:168][593]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=AudioMixerPlatformInterface. Timeout waiting for h/w.
+[2025.11.05-18.09.15:178][593]LogHttp: Warning: 000001F4628E6200: request failed, libcurl error: 6 (Could not resolve hostname)
+[2025.11.05-18.09.15:178][593]LogHttp: Warning: 000001F4628E6200: libcurl info message cache 0 (Too old connection (404 seconds idle), disconnect it)
+[2025.11.05-18.09.15:178][593]LogHttp: Warning: 000001F4628E6200: libcurl info message cache 1 (Connection 5 seems to be dead)
+[2025.11.05-18.09.15:178][593]LogHttp: Warning: 000001F4628E6200: libcurl info message cache 2 (shutting down connection #5)
+[2025.11.05-18.09.15:178][593]LogHttp: Warning: 000001F4628E6200: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.11.05-18.09.15:178][593]LogHttp: Warning: 000001F4628E6200: libcurl info message cache 4 (Hostname in DNS cache was stale, zapped)
+[2025.11.05-18.09.15:178][593]LogHttp: Warning: 000001F4628E6200: libcurl info message cache 5 (Could not resolve host: datarouter.ol.epicgames.com)
+[2025.11.05-18.09.15:178][593]LogHttp: Warning: 000001F4628E6200: libcurl info message cache 6 (shutting down connection #6)
+[2025.11.05-18.09.15:179][593]LogHttp: Warning: 000001F4628E6200 POST https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC886E2B-440A-8660-CF84-C9A8F809A4D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=7d09a4f64f5e05d59981c3a8dbee5874%7C%7C7a3dd073-02ab-4d62-82b4-4c6e970168e1&AppEnvironment=datacollector-binary&UploadType=eteventstream completed with reason 'ConnectionError' after 0.01s
+[2025.11.05-18.09.15:526][595]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{28f27bf4-d480-478f-b025-1de378ecc46b}, Name=Headphones (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=108.85
+[2025.11.05-18.09.15:526][595]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.11.05-18.09.15:526][595]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.11.05-18.09.15:529][595]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.11.05-18.09.15:549][595]LogEOSSDK: Warning: LogHttp: 000001F46D4DD800: invalid HTTP response code received. URL: https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3C40E1DE492167055F770F8E52BFC7E1, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.05-18.09.15:549][595]LogEOSSDK: Warning: LogHttp: 000001F46D4DD800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.11.05-18.09.15:549][595]LogEOSSDK: Warning: LogHttp: 000001F46D4DD800: libcurl info message cache 0 (Too old connection (406 seconds idle), disconnect it)
+[2025.11.05-18.09.15:549][595]LogEOSSDK: Warning: LogHttp: 000001F46D4DD800: libcurl info message cache 1 (Connection 59 seems to be dead)
+[2025.11.05-18.09.15:549][595]LogEOSSDK: Warning: LogHttp: 000001F46D4DD800: libcurl info message cache 2 (Closing connection)
+[2025.11.05-18.09.15:549][595]LogEOSSDK: Warning: LogHttp: 000001F46D4DD800: libcurl info message cache 3 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.11.05-18.09.15:549][595]LogEOSSDK: Warning: LogHttp: 000001F46D4DD800: libcurl info message cache 4 (Could not resolve host: api.epicgames.dev)
+[2025.11.05-18.09.15:549][595]LogEOSSDK: Warning: LogHttp: 000001F46D4DD800: libcurl info message cache 5 (Closing connection)
+[2025.11.05-18.09.15:549][595]LogEOSSDK: Warning: LogHttp: 000001F46D4D9600: invalid HTTP response code received. URL: https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BDAA90F95-4AEB-13FF-CEE2-DF9636E9B488%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents, HTTP code: 0, content length: 0, actual payload size: 0
+[2025.11.05-18.09.15:549][596]LogEOSSDK: Warning: LogHttp: 000001F46D4D9600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2025.11.05-18.09.15:549][596]LogEOSSDK: Warning: LogHttp: 000001F46D4D9600: libcurl info message cache 0 (Found bundle for host: 0x1f39d880240 [serially])
+[2025.11.05-18.09.15:549][596]LogEOSSDK: Warning: LogHttp: 000001F46D4D9600: libcurl info message cache 1 (Could not resolve host: api.epicgames.dev)
+[2025.11.05-18.09.15:549][596]LogEOSSDK: Warning: LogHttp: 000001F46D4D9600: libcurl info message cache 2 (Closing connection)
+[2025.11.05-18.09.15:549][596]LogEOSSDK: Warning: LogHttp: Lockout of 1.000000s on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3C40E1DE492167055F770F8E52BFC7E1
+[2025.11.05-18.09.15:883][596]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/telemetry/data/datarouter/api/v1/public/data?SessionID=%7BDAA90F95-4AEB-13FF-CEE2-DF9636E9B488%7D&AppID=EOSSDK.PhaseRelease.ReleaseBuild&AppVersion=1.17.0-41373641%20-%20%2B%2BEOSSDK%2BRelease-1.17.0-CL-41373641&UserID=&AppEnvironment=Production&UploadType=sdkevents
+[2025.11.05-18.09.16:857][599]LogEOSSDK: Warning: LogHttp: Retry 1 on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3C40E1DE492167055F770F8E52BFC7E1
+[2025.11.05-18.09.20:524][610]LogEOSSDK: Warning: LogHttp: Success on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-41373641&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=3C40E1DE492167055F770F8E52BFC7E1
+[2025.11.05-18.09.52:334][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2025.11.05-18.09.52:346][964]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.05-18.09.52:387][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMap" FILE="../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Maps/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.05-18.09.52:446][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.11.05-18.09.52:540][964]LogSavePackage: Moving output files for package: /Game/Maps/StartMap
+[2025.11.05-18.09.52:541][964]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/StartMapA16376BF4029254604AF90AB2D7E6F3A.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Maps/StartMap.umap'
+[2025.11.05-18.09.52:559][964]LogFileHelpers: All files are already saved.
+[2025.11.05-18.09.52:559][964]LogFileHelpers: Saving map 'StartMap' took 0.172
+[2025.11.05-18.09.52:560][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/ArcadeMachineTextures] ([1] browsable assets)...
+[2025.11.05-18.09.52:560][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/ArcadeMachineTextures]
+[2025.11.05-18.09.52:583][964]LogSavePackage: Moving output files for package: /Game/StudentWork/ArcadeMachineTextures
+[2025.11.05-18.09.52:583][964]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/ArcadeMachineTextures0ED151CA43AF95E345B99DA0F9AD7FE9.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/ArcadeMachineTextures.uasset'
+[2025.11.05-18.09.52:587][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/Material] ([1] browsable assets)...
+[2025.11.05-18.09.52:587][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Material]
+[2025.11.05-18.09.52:587][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StudentWork/Material" FILE="../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/Material.uasset" SILENT=true
+[2025.11.05-18.09.52:598][964]LogSavePackage: Moving output files for package: /Game/StudentWork/Material
+[2025.11.05-18.09.52:598][964]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Material54AD91C34512B53E319F19ABF388D5CB.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/Material.uasset'
+[2025.11.05-18.09.52:600][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/Textured_Tutorial_Arcade_Machine] ([1] browsable assets)...
+[2025.11.05-18.09.52:600][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/Textured_Tutorial_Arcade_Machine]
+[2025.11.05-18.09.52:608][964]LogSavePackage: Moving output files for package: /Game/StudentWork/Textured_Tutorial_Arcade_Machine
+[2025.11.05-18.09.52:608][964]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Textured_Tutorial_Arcade_Machine0E46EE7F4F07993432296083166D378A.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/Textured_Tutorial_Arcade_Machine.uasset'
+[2025.11.05-18.09.52:621][964]LogFileHelpers: InternalPromptForCheckoutAndSave took 275.962 ms (total: 735.960 ms)
+[2025.11.05-18.09.52:670][964]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.05-18.09.52:670][964]LogContentValidation: Enabled validators:
+[2025.11.05-18.09.52:670][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.05-18.09.52:670][964]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.05-18.09.52:670][964]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.05-18.09.52:670][964]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.05-18.09.52:670][964]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.05-18.09.52:670][964]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.05-18.09.52:670][964]AssetCheck: /Game/Maps/StartMap Validating asset
+[2025.11.05-18.09.52:670][964]AssetCheck: /Game/StudentWork/ArcadeMachineTextures Validating asset
+[2025.11.05-18.09.52:670][964]AssetCheck: /Game/StudentWork/Material Validating asset
+[2025.11.05-18.09.52:670][964]AssetCheck: /Game/StudentWork/Textured_Tutorial_Arcade_Machine Validating asset
+[2025.11.05-18.09.52:692][964]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.05-18.09.54:801][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2025.11.05-18.09.54:861][154]LogStall: Shutdown...
+[2025.11.05-18.09.54:861][154]LogStall: Shutdown complete.
+[2025.11.05-18.09.54:934][154]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.54:934][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.55:089][154]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.05-18.09.55:089][154]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.55:089][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.55:203][154]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.05-18.09.55:203][154]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.55:203][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.55:324][154]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.05-18.09.55:324][154]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.55:324][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.55:412][154]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.11.05-18.09.55:412][154]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.55:412][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.55:539][154]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.55:539][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.55:597][154]LogSlate: Window 'IntroDesign - Unreal Editor' being destroyed
+[2025.11.05-18.09.55:912][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.11.05-18.09.55:934][154]Cmd: QUIT_EDITOR
+[2025.11.05-18.09.55:934][155]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.05-18.09.55:945][155]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.05-18.09.55:947][155]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.05-18.09.55:947][155]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.05-18.09.55:954][155]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.55:954][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.55:976][155]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.05-18.09.55:977][155]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.05-18.09.55:981][155]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.05-18.09.55:996][155]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.55:996][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.55:999][155]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.55:999][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:002][155]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:002][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:005][155]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:005][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:009][155]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:010][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:012][155]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:012][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:015][155]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:015][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:018][155]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:018][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:021][155]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:021][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:024][155]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:024][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:028][155]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:028][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:030][155]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:030][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:033][155]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:035][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:039][155]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:039][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:044][155]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:044][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:047][155]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.11.05-18.09.56:047][155]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.05-18.09.56:057][155]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.05-18.09.56:057][155]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.05-18.09.56:064][155]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.05-18.09.56:752][155]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.05-18.09.56:752][155]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.05-18.09.56:752][155]LogAudio: Display: Audio Device unregistered from world 'StartMap'.
+[2025.11.05-18.09.56:752][155]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.05-18.09.56:752][155]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.05-18.09.56:754][155]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.05-18.09.56:770][155]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.05-18.09.56:771][155]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.05-18.09.56:772][155]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.11.05-18.09.56:777][155]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.05-18.09.56:777][155]LogExit: Preparing to exit.
+[2025.11.05-18.09.56:861][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.11.05-18.09.56:866][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:866][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.56:867][155]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2025.11.05-18.09.57:832][155]LogEditorDataStorage: Deinitializing
+[2025.11.05-18.09.58:079][155]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.05-18.09.58:179][155]LogExit: Editor shut down
+[2025.11.05-18.09.58:199][155]LogExit: Transaction tracking system shut down
+[2025.11.05-18.09.58:852][155]LogExit: Object subsystem successfully closed.
+[2025.11.05-18.09.58:960][155]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.05-18.09.59:195][155]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.05-18.09.59:196][155]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.05-18.09.59:205][155]LogMemoryProfiler: Shutdown
+[2025.11.05-18.09.59:207][155]LogNetworkingProfiler: Shutdown
+[2025.11.05-18.09.59:207][155]LoadingProfiler: Shutdown
+[2025.11.05-18.09.59:208][155]LogTimingProfiler: Shutdown
+[2025.11.05-18.09.59:611][155]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.05-18.09.59:648][155]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.05-18.09.59:648][155]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC886E2B-440A-8660-CF84-C9A8F809A4D5%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=7d09a4f64f5e05d59981c3a8dbee5874%7C%7C7a3dd073-02ab-4d62-82b4-4c6e970168e1&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.05-18.10.00:223][155]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.05-18.10.00:223][155]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.05-18.10.00:231][155]RenderDocPlugin: plugin has been unloaded.
+[2025.11.05-18.10.00:237][155]LogXGEController: Cleaning working directory: C:/Users/a026015o/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.11.05-18.10.00:247][155]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.05-18.10.00:247][155]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.05-18.10.00:247][155]LogPakFile: Destroying PakPlatformFile
+[2025.11.05-18.10.00:518][155]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.05-18.10.00:566][155]LogExit: Exiting.
+[2025.11.05-18.10.00:593][155]Log file closed, 11/05/25 18:10:00

@@ -7,7 +7,22 @@
 			"files": [
 				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Maps/StartMap_BuiltData.uasset",
 				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Maps/StartMap.umap",
-				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Blueprints/PlayerCharacter.uasset"
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Blueprints/PlayerCharacter.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/BP_Moving_Door.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Meshes/SciFi/SM_Crate.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/BP_Pressure_Plate.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/BP_Moveable_Crate.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/NS_Steam_Vent.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/BP_Steam_Vent.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/BP_Elevator.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/BP_Broken_Elevator.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/MI_Super_Red_Emissive.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/NS_Broken_Elevator.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Materials/Master/M_EmissiveMaster.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/Materials/MI_Red_Emissive.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/MI_Super_Green_Emissive.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/BP_Moving_Double_Door.uasset",
+				"C:/Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/BP__Broken_Elevator.uasset"
 			]
 		}
 	]

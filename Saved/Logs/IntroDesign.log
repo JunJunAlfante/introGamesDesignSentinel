@@ -3934,3 +3934,115 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.21-11.30.58:569][843]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7361.226074
 [2025.11.21-11.30.59:572][846]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.11.21-11.30.59:573][846]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7361.896973, Update Interval: 333.745544
+[2025.11.21-11.37.22:302][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7744.956543
+[2025.11.21-11.37.23:301][997]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.21-11.37.23:301][997]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7745.622070, Update Interval: 330.585052
+[2025.11.21-11.43.53:023][166]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8135.687500
+[2025.11.21-11.43.54:016][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.21-11.43.54:016][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8136.347168, Update Interval: 332.046265
+[2025.11.21-11.47.44:870][439]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.11.21-11.47.44:896][439]LogContentBrowser: Creating deferred item: NewFolder
+[2025.11.21-11.47.44:910][440]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.11.21-11.47.49:269][958]LogContentBrowser: Attempting asset rename: NewFolder -> NewFolder
+[2025.11.21-11.47.49:270][958]LogContentBrowser: End creating deferred item NewFolder
+[2025.11.21-11.47.55:612][657]LogContentBrowser: Attempting asset rename: NewFolder -> Zone2
+[2025.11.21-11.48.01:136][226]Cmd: DELETE
+[2025.11.21-11.48.01:136][226]Cmd: ACTOR DELETE
+[2025.11.21-11.48.01:142][226]LogEditorActor: Deleted Actor: BP_Steam_Vent_Zone1_C
+[2025.11.21-11.48.01:173][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.11.21-11.48.01:176][226]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2025.11.21-11.48.03:406][480]Cmd: DELETE
+[2025.11.21-11.48.03:406][480]Cmd: ACTOR DELETE
+[2025.11.21-11.48.03:410][480]LogEditorActor: Deleted Actor: BP_Steam_Vent_Zone1_C
+[2025.11.21-11.48.03:438][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.21-11.48.03:441][480]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2025.11.21-11.48.04:114][545]Cmd: DELETE
+[2025.11.21-11.48.04:114][545]Cmd: ACTOR DELETE
+[2025.11.21-11.48.04:118][545]LogEditorActor: Deleted Actor: BP_Steam_Vent_Zone1_C
+[2025.11.21-11.48.04:147][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.21-11.48.04:150][545]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.11.21-11.48.05:217][662]Cmd: DELETE
+[2025.11.21-11.48.05:217][662]Cmd: ACTOR DELETE
+[2025.11.21-11.48.05:221][662]LogEditorActor: Deleted Actor: BP_Steam_Vent_Zone1_C
+[2025.11.21-11.48.05:251][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.21-11.48.05:254][662]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.11.21-11.48.07:649][933]Cmd: DELETE
+[2025.11.21-11.48.07:649][933]Cmd: ACTOR DELETE
+[2025.11.21-11.48.07:654][933]LogEditorActor: Deleted Actor: BP_Steam_Vent_Zone1_C
+[2025.11.21-11.48.07:680][933]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.11.21-11.48.07:683][933]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.11.21-11.48.11:667][347]Cmd: DELETE
+[2025.11.21-11.48.11:667][347]Cmd: ACTOR DELETE
+[2025.11.21-11.48.11:671][347]LogEditorActor: Deleted Actor: BP_Steam_Vent_Zone1_C
+[2025.11.21-11.48.11:701][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.11.21-11.48.11:704][347]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.11.21-11.48.24:481][693]LogStreaming: Display: FlushAsyncLoading(493): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.21-11.48.24:497][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.21-11.48.24:497][693]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Broken_Elevator] ([2] browsable assets)...
+[2025.11.21-11.48.24:497][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Broken_Elevator]
+[2025.11.21-11.48.24:515][693]LogSavePackage: Moving output files for package: /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Broken_Elevator
+[2025.11.21-11.48.24:515][693]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/BP_Broken_ElevatorB60FF34F4314D0E90A5E3A94BE1E8BBA.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/CustomAssets/Blueprints/Zone2/BP_Broken_Elevator.uasset'
+[2025.11.21-11.48.24:524][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StudentWork/CustomAssets/Blueprints/BP_Broken_Elevator] ([5] browsable assets)...
+[2025.11.21-11.48.24:524][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/CustomAssets/Blueprints/BP_Broken_Elevator]
+[2025.11.21-11.48.24:527][693]LogSavePackage: Moving output files for package: /Game/StudentWork/CustomAssets/Blueprints/BP_Broken_Elevator
+[2025.11.21-11.48.24:528][693]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/BP_Broken_Elevator7B0F0AB74C5C0275D07ECBAAF8A15F12.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/CustomAssets/Blueprints/BP_Broken_Elevator.uasset'
+[2025.11.21-11.48.24:533][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 35.904 ms (total: 839.032 ms)
+[2025.11.21-11.48.24:562][693]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.21-11.48.24:562][693]LogContentValidation: Display: Starting to validate 4 assets
+[2025.11.21-11.48.24:562][693]LogContentValidation: Enabled validators:
+[2025.11.21-11.48.24:562][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.21-11.48.24:562][693]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.21-11.48.24:562][693]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.21-11.48.24:562][693]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.21-11.48.24:562][693]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.21-11.48.24:562][693]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.21-11.48.24:562][693]AssetCheck: /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Broken_Elevator Validating asset
+[2025.11.21-11.48.24:562][693]AssetCheck: /Game/StudentWork/CustomAssets/Blueprints/BP_Broken_Elevator Validating asset
+[2025.11.21-11.48.24:562][693]AssetCheck: /Game/StudentWork/CustomAssets/Blueprints/BP_Broken_Elevator Validating asset
+[2025.11.21-11.48.24:563][693]AssetCheck: /Game/StudentWork/CustomAssets/Blueprints/BP_Broken_Elevator Validating asset
+[2025.11.21-11.48.24:572][693]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.21-11.48.28:925][108]LogStreaming: Display: FlushAsyncLoading(494): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.21-11.48.29:030][108]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2025.11.21-11.48.31:384][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.21-11.48.31:385][307]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door] ([2] browsable assets)...
+[2025.11.21-11.48.31:385][307]OBJ SavePackage: Finished generating thumbnails for package [/Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door]
+[2025.11.21-11.48.31:407][307]LogSavePackage: Moving output files for package: /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door
+[2025.11.21-11.48.31:408][307]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/BP_Multi_Trigger_Double_DoorF66A81B5479E6AFA3BE948885015FEF9.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Content/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door.uasset'
+[2025.11.21-11.48.31:415][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 31.496 ms (total: 870.529 ms)
+[2025.11.21-11.48.31:499][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.11.21-11.48.31:527][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2025.11.21-11.48.31:553][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.11.21-11.48.31:581][307]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.11.21-11.48.31:581][307]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.21-11.48.31:581][307]LogContentValidation: Enabled validators:
+[2025.11.21-11.48.31:581][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.21-11.48.31:581][307]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.21-11.48.31:581][307]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.21-11.48.31:581][307]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.21-11.48.31:581][307]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.21-11.48.31:581][307]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.21-11.48.31:581][307]AssetCheck: /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door Validating asset
+[2025.11.21-11.48.31:595][307]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/SourceControl/UncontrolledChangelists.json
+[2025.11.21-11.48.34:155][577]Cmd: DELETE
+[2025.11.21-11.48.34:155][577]Cmd: ACTOR DELETE
+[2025.11.21-11.48.34:160][577]LogEditorActor: Deleted Actor: BP_Trigger_Double_Door_C
+[2025.11.21-11.48.34:190][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.11.21-11.48.34:192][577]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2025.11.21-11.48.36:813][830]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door.BP_Multi_Trigger_Double_Door_C
+[2025.11.21-11.48.36:813][830]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door.BP_Multi_Trigger_Double_Door_C
+[2025.11.21-11.48.36:816][830]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door.BP_Multi_Trigger_Double_Door as actor: BP_Multi_Trigger_Double_Door_C /Game/Maps/StartMap.StartMap:PersistentLevel.BP_Multi_Trigger_Double_Door_C_0
+[2025.11.21-11.48.36:820][830]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door.BP_Multi_Trigger_Double_Door as actor: BP_Multi_Trigger_Double_Door_C /Game/Maps/StartMap.StartMap:PersistentLevel.BP_Multi_Trigger_Double_Door_C_0
+[2025.11.21-11.48.38:220][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.11.21-11.48.38:222][984]LogEditorActor: Deleted 0 Actors (0.029 secs)
+[2025.11.21-11.48.38:229][984]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door.BP_Multi_Trigger_Double_Door_C
+[2025.11.21-11.48.38:229][984]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door.BP_Multi_Trigger_Double_Door_C
+[2025.11.21-11.48.38:233][984]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door.BP_Multi_Trigger_Double_Door as actor: BP_Multi_Trigger_Double_Door_C /Game/Maps/StartMap.StartMap:PersistentLevel.BP_Multi_Trigger_Double_Door_C_1
+[2025.11.21-11.48.38:236][984]LogActorFactory: Actor Factory spawned Blueprint /Game/StudentWork/CustomAssets/Blueprints/Zone2/BP_Multi_Trigger_Double_Door.BP_Multi_Trigger_Double_Door as actor: BP_Multi_Trigger_Double_Door_C /Game/Maps/StartMap.StartMap:PersistentLevel.BP_Multi_Trigger_Double_Door_C_1
+[2025.11.21-11.50.18:144][944]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8520.749023
+[2025.11.21-11.50.18:285][961]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.21-11.50.18:285][961]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8520.881836, Update Interval: 358.815277
+[2025.11.21-11.50.18:601][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.11.21-11.50.18:730][987]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/StartMap_Auto4
+[2025.11.21-11.50.18:731][987]LogSavePackage: Moving '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/StartMap_Auto4918AD1E14C7FFD6A4E7BEEABDFE042F9.tmp' to '../../../../../../Users/a026015o/Documents/GitHub/introGamesDesignSentinel/Saved/Autosaves/Game/Maps/StartMap_Auto4.umap'
+[2025.11.21-11.50.18:735][987]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartMap' took 0.167
+[2025.11.21-11.50.18:735][987]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.167
